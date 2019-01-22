@@ -1,1 +1,26 @@
-@charset "UTF-8";
+img#logo {
+    padding: 8px;
+}
+
+input#barraPesquisa {
+    padding: 8px;
+    font: 13px;
+    color: #999999;
+    margin-top: 7px;
+    border: 2px solid #33A0D2;
+}
+
+div#barra {
+    padding: 13px;
+}
+
+nav.navhome {
+    background-color: #33A0D2;
+}
+
+a.inicio {
+    margin-left: 142px;
+}
+
+
+
