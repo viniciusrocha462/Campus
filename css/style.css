@@ -3,7 +3,7 @@ img#logo {
 }
 
 input#barraPesquisa {
-    padding: 8px;
+    padding: 10px;
     font: 13px;
     color: #999999;
     margin-top: 7px;
@@ -12,6 +12,7 @@ input#barraPesquisa {
 
 div#barra {
     padding: 13px;
+    top: 5px;
 }
 
 nav.navhome {
