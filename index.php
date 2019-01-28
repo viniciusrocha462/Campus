@@ -92,12 +92,30 @@
                             <img class="foto col-md-12" src="imagens_site/lancamentos/4.jpg">
                             <img class="descricao col-md-12" src="imagens_site/lancamentos/4-1.png">
                         </div>
+
+                        <div class="item col-md-3">
+                            <img class="foto col-md-12" src="imagens_site/lancamentos/5.jpg">
+                            <img class="descricao col-md-12" src="imagens_site/lancamentos/5-1.png">
+                        </div>
+
+                        <div class="item col-md-3">
+                            <img class="foto col-md-12" src="imagens_site/lancamentos/6.jpg">
+                            <img class="descricao col-md-12" src="imagens_site/lancamentos/6-1.png">
+                        </div>
+
+                        <div class="item col-md-3">
+                            <img class="foto col-md-12" src="imagens_site/lancamentos/7.jpg">
+                            <img class="descricao col-md-12" src="imagens_site/lancamentos/7-1.png">
+                        </div>
+
+                        <div class="item col-md-3">
+                            <img class="foto col-md-12" src="imagens_site/lancamentos/8.jpg">
+                            <img class="descricao col-md-12" src="imagens_site/lancamentos/8-1.png">
+                        </div>
                     </div>
                 </div>
-
             </div>
         </section>
-
         <?php
             include_once "include/script.php";
         ?>
