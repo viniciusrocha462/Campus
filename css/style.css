@@ -1,8 +1,13 @@
-img#logo {
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url("https://fonts.googleapis.com/css?family=Lato");
+}
+
+#logo {
     padding: 8px;
 }
 
-input#barraPesquisa {
+#barraPesquisa {
     padding: 10px;
     font: 13px;
     color: #999999;
@@ -10,18 +15,73 @@ input#barraPesquisa {
     border: 2px solid #33A0D2;
 }
 
-div#barra {
+#barra {
     padding: 13px;
     top: 5px;
 }
 
-nav.navhome {
+.navhome {
     background-color: #33A0D2;
 }
 
-a.inicio {
+.inicio {
     margin-left: 142px;
 }
 
+.section_lancamentos {
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
+    padding: 50px;
+}
+
+.div_lancamentos {
+    padding: 0px;
+    height: auto;
+    margin: 0px;
+}
+
+.div_title_section {
+    padding: 0px;
+    margin: 0px;
+}
+
+.h2_title_section {
+    padding: 0px;
+    margin: 0px;
+    font-family: Lato;
+    font-size: 20pt;
+    margin-top: 30px;
+    border-left: 5px solid #33A0D2;
+}
+
+.item {
+    padding: 0px !important;
+}
+
+.foto {
+    padding: 0px;
+    margin-top: 30px;
+}
+
+.descricao {
+    width: 100%;
+    height: 170px;
+    margin: -170px 0 0 0;
+    opacity: 0;
+    transition: 0.4s;
+    padding: 0px;
+}
+
+.descricao:hover {
+    background-color:rgba(0,0,0,.7);
+    width: 100%;
+    height: 170px;
+    margin: -170px 0 0 0;
+    opacity: 1;
+    padding: 0px;
+    transition: 0.4s;
+}
 
 
