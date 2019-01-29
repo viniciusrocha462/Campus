@@ -25,7 +25,7 @@
 }
 
 .inicio {
-    margin-left: 142px;
+    margin-left: 208px;
 }
 
 .section_lancamentos {
@@ -66,22 +66,30 @@
 }
 
 .descricao {
-    width: 100%;
+    width: 89%;
     height: 170px;
     margin: -170px 0 0 0;
     opacity: 0;
-    transition: 0.4s;
+    transition: 0.7s;
     padding: 0px;
 }
 
 .descricao:hover {
     background-color:rgba(0,0,0,.7);
-    width: 100%;
+    width: 89%;
     height: 170px;
     margin: -170px 0 0 0;
     opacity: 1;
     padding: 0px;
-    transition: 0.4s;
+    transition: 0.7s;
+    left: 15px;
 }
 
+.section_destaques {
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
+    margin-top: -30px;
+}
 

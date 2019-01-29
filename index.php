@@ -116,6 +116,12 @@
                 </div>
             </div>
         </section>
+        <section class="section_destaques" col-md-12">
+            <div class="div_destaques container">
+                <div class="div_title_section col-md-12">
+                    <h2 class="h2_title_section">Destaque</h2>
+                </div>
+            </div>
         <?php
             include_once "include/script.php";
         ?>
