@@ -18,26 +18,26 @@
             </div>
         </header>
         <nav class="container-fluid navbar navbar-expand-lg navbar-light navhome">
-            <a class="navbar-brand inicio" href="#">Início</a>
+            <a class="navbar-brand inicio" href="#barra">Início</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Lançamentos<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#lancamentos">Lançamentos<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Destaques</a>
+                        <a class="nav-link" href="#destaques">Destaques</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Consoles</a>
+                        <a class="nav-link" href="#consoles">Consoles</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Mais Vendidos</a>
+                        <a class="nav-link" href="#vendidos">Mais Vendidos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contato</a>
+                        <a class="nav-link" href="#contato">Contato</a>
                     </li>
                 </ul>
             </div>
@@ -116,7 +116,7 @@
                 </div>
             </div>
         </section>
-        <section class="section_destaques" col-md-12">
+        <section id="destaques" class="section_destaques" col-md-12">
             <div class="div_destaques container">
                 <div class="div_title_section col-md-12">
                     <h2 class="h2_title_section">Destaque</h2>
@@ -124,7 +124,7 @@
                         <div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/1-1.jpg" alt="skyrim_produto">
                             <div class="card-body row">
-                                <h5 class="card-title item_compra">The Elder Scrolls: Skyrim</h5>
+                                <h5 class="item_compra card-title">The Elder Scrolls: Skyrim</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$39,90</p>
                                     <p class="card-text por">por: R$15,90</p>
@@ -137,7 +137,7 @@
                         <div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/3-1.jpg" alt="skyrimvr_produto">
                             <div class="card-body row">
-                                <h5 class="card-title item_compra">The Elder Scrolls: Skyrim VR</h5>
+                                <h5 class="item_compra card-title">The Elder Scrolls: Skyrim VR</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$124,90</p>
                                     <p class="card-text por">por: R$59,90</p>
@@ -150,7 +150,7 @@
                         <div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/4-1.jpg" alt="gtav_produto">
                             <div class="card-body row">
-                                <h5 class="card-title item_compra">Grand Theft Auto: V</h5>
+                                <h5 class="item_compra card-title">Grand Theft Auto: V</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$99,90</p>
                                     <p class="card-text por">por: R$44,90</p>
@@ -162,7 +162,7 @@
                         </div><div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/bo2.jpg" alt="bo2_produto">
                             <div class="card-body row">
-                                <h5 class="card-title item_compra">Call of Duty: Black Ops 2</h5>
+                                <h5 class="item_compra card-title">Call of Duty: Black Ops 2</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$69,90</p>
                                     <p class="card-text por">por: R$24,90</p>
@@ -176,7 +176,7 @@
                 </div>
             </div>
         </section>
-        <section class="section_consoles" col-md-12">
+        <section id="consoles" class="section_consoles" col-md-12">
         <div class="div_consoles container">
             <div class="div_title_section col-md-12">
                 <h2 class="h2_title_section console">Consoles</h2>
