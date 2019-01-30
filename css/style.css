@@ -3,6 +3,22 @@
     src: url("https://fonts.googleapis.com/css?family=Lato");
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #33A0D2;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #33A0D2;
+}
+
 #logo {
     padding: 8px;
 }
@@ -24,8 +40,17 @@
     background-color: #33A0D2;
 }
 
+.nav-link {
+    text-decoration: none;
+    color: #1B5C7C;
+}
+
+.nav-link:hover {
+    background-color: #1B5C7C;
+}
+
 .inicio {
-    margin-left: 208px;
+    margin-left: 212px;
 }
 
 .section_lancamentos {
@@ -105,6 +130,7 @@
     color: #33A0D2;
     top: 15px;
     left: -10px;
+    padding: 0px;
 }
 
 .de {
@@ -121,11 +147,13 @@
     color: #33A0D2;
     left: 23px;
     top: 23px;
+    padding: 0px;
 }
 
 .item_compra {
     font-family: 'Oswald', sans-serif;
     color: #33A0D2;
+    margin: 0px;
 }
 
 .section_consoles {
@@ -134,4 +162,17 @@
     height: auto;
     background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
     margin-top: -30px;
+}
+
+.section_vendidos {
+    margin: 0px;
+    padding: 30px;
+    height: auto;
+    background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
+    margin-top: -60px;
+}
+
+.card-body {
+    padding: 0px;
+    margin: 0px;
 }

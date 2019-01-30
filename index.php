@@ -219,13 +219,75 @@
                                 <a href="#" class="btn btn-primary">Comprar</a>
                             </div>
                         </div>
-                    </div><div class="card">
-                        <img class="card-img-top" src="imagens_site/produtos/xboxones.jpg" alt="xbox_one">
+                    </div>
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/switch.jpg" alt="nin_switch">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">Xbox One S 1Tb</h5>
+                            <h5 class="card-title item_compra">Nintendo Switch 32Gb</h5>
                             <div class="col-md-6 preco">
-                                <p class="card-text de">de: R$1.449,90</p>
-                                <p class="card-text por">por: R$1.249,00</p>
+                                <p class="card-text de">de: R$2.999,90</p>
+                                <p class="card-text por">por: R$2.299,90</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+        <section id="vendidos" class="section_vendidos" col-md-12">
+        <div class="div_vendidos container">
+            <div class="div_title_section col-md-12">
+                <h2 class="h2_title_section vendidos">Mais Vendidos</h2>
+                <div class="row">
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/spiderman.fw.png" alt="miranha">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">Spider Man</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">A partir de:</p>
+                                <p class="card-text por">R$160,00</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/gow.fw.png" alt="godofwar">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">God Of War</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">A partir de:</p>
+                                <p class="card-text por">R$120,00</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/reddead.fw.png" alt="reddead">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">Red Dead Redemption II</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">A partir de:</p>
+                                <p class="card-text por">R$170,00</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/fc5.fw.png" alt="farcry">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">Far Cry 5</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">A partir de:</p>
+                                <p class="card-text por">R$150,00</p>
                             </div>
                             <div class="col-md-6 comprar">
                                 <a href="#" class="btn btn-primary">Comprar</a>
