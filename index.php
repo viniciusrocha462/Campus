@@ -120,8 +120,122 @@
             <div class="div_destaques container">
                 <div class="div_title_section col-md-12">
                     <h2 class="h2_title_section">Destaque</h2>
+                    <div class="row">
+                        <div class="card">
+                            <img class="card-img-top" src="imagens_site/produtos/1-1.jpg" alt="skyrim_produto">
+                            <div class="card-body row">
+                                <h5 class="card-title item_compra">The Elder Scrolls: Skyrim</h5>
+                                <div class="col-md-6 preco">
+                                    <p class="card-text de">de: R$39,90</p>
+                                    <p class="card-text por">por: R$15,90</p>
+                                </div>
+                                <div class="col-md-6 comprar">
+                                    <a href="#" class="btn btn-primary">Comprar</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img class="card-img-top" src="imagens_site/produtos/3-1.jpg" alt="skyrimvr_produto">
+                            <div class="card-body row">
+                                <h5 class="card-title item_compra">The Elder Scrolls: Skyrim VR</h5>
+                                <div class="col-md-6 preco">
+                                    <p class="card-text de">de: R$124,90</p>
+                                    <p class="card-text por">por: R$59,90</p>
+                                </div>
+                                <div class="col-md-6 comprar">
+                                    <a href="#" class="btn btn-primary">Comprar</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img class="card-img-top" src="imagens_site/produtos/4-1.jpg" alt="gtav_produto">
+                            <div class="card-body row">
+                                <h5 class="card-title item_compra">Grand Theft Auto: V</h5>
+                                <div class="col-md-6 preco">
+                                    <p class="card-text de">de: R$99,90</p>
+                                    <p class="card-text por">por: R$44,90</p>
+                                </div>
+                                <div class="col-md-6 comprar">
+                                    <a href="#" class="btn btn-primary">Comprar</a>
+                                </div>
+                            </div>
+                        </div><div class="card">
+                            <img class="card-img-top" src="imagens_site/produtos/bo2.jpg" alt="bo2_produto">
+                            <div class="card-body row">
+                                <h5 class="card-title item_compra">Call of Duty: Black Ops 2</h5>
+                                <div class="col-md-6 preco">
+                                    <p class="card-text de">de: R$69,90</p>
+                                    <p class="card-text por">por: R$24,90</p>
+                                </div>
+                                <div class="col-md-6 comprar">
+                                    <a href="#" class="btn btn-primary">Comprar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </section>
+        <section class="section_consoles" col-md-12">
+        <div class="div_consoles container">
+            <div class="div_title_section col-md-12">
+                <h2 class="h2_title_section console">Consoles</h2>
+                <div class="row">
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/ps4-pro1.jpg" alt="ps4_pro">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">PlayStation 4: Pro 1Tb</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">de: R$2.654,90</p>
+                                <p class="card-text por">por: R$2.469,90</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/ps4-slim.jpg" alt="ps4_slim">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">PlayStation 4: Slim 500Gb</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">de: R$1.649,90</p>
+                                <p class="card-text por">por: R$1.249,90</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/switch.jpg" alt="nin_switch">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">Nintendo Switch 32Gb</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">de: R$2.999,90</p>
+                                <p class="card-text por">por: R$2.299,90</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div><div class="card">
+                        <img class="card-img-top" src="imagens_site/produtos/xboxones.jpg" alt="xbox_one">
+                        <div class="card-body row">
+                            <h5 class="card-title item_compra">Xbox One S 1Tb</h5>
+                            <div class="col-md-6 preco">
+                                <p class="card-text de">de: R$1.449,90</p>
+                                <p class="card-text por">por: R$1.249,00</p>
+                            </div>
+                            <div class="col-md-6 comprar">
+                                <a href="#" class="btn btn-primary">Comprar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
         <?php
             include_once "include/script.php";
         ?>

@@ -33,7 +33,7 @@
     padding: 0px;
     height: auto;
     background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
-    padding: 50px;
+    padding: 30px;
 }
 
 .div_lancamentos {
@@ -93,3 +93,43 @@
     margin-top: -30px;
 }
 
+.card {
+    width: 17em;
+    margin-top: 30px;
+    left: 13px;
+}
+
+.preco {
+    font-family: 'Oswald', sans-serif;
+    color: #33A0D2;
+    top: 15px;
+    left: -10px;
+}
+
+.de {
+    margin: 0px;
+    padding: 0px;
+}
+
+.por {
+    margin: 0px;
+    padding: 0px;
+}
+
+.comprar {
+    color: #33A0D2;
+    left: 23px;
+    top: 23px;
+}
+
+.item_compra {
+    left: 10px;
+}
+
+.section_consoles {
+    margin: 0px;
+    padding: 30px;
+    height: auto;
+    background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
+    margin-top: -30px;
+}
