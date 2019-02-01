@@ -116,7 +116,7 @@
                 </div>
             </div>
         </section>
-        <section id="destaques" class="section_destaques" col-md-12">
+        <section id="destaques" class="section_destaques col-md-12">
             <div class="div_destaques container">
                 <div class="div_title_section col-md-12">
                     <h2 class="h2_title_section">Destaque</h2>
@@ -124,7 +124,7 @@
                         <div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/1-1.jpg" alt="skyrim_produto">
                             <div class="card-body row">
-                                <h5 class="item_compra card-title">The Elder Scrolls: Skyrim</h5>
+                                <h5 class="card-title item_compra col-md-12">The Elder Scrolls: Skyrim</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$39,90</p>
                                     <p class="card-text por">por: R$15,90</p>
@@ -137,7 +137,7 @@
                         <div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/3-1.jpg" alt="skyrimvr_produto">
                             <div class="card-body row">
-                                <h5 class="item_compra card-title">The Elder Scrolls: Skyrim VR</h5>
+                                <h5 class="card-title item_compra col-md-12">The Elder Scrolls: Skyrim VR</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$124,90</p>
                                     <p class="card-text por">por: R$59,90</p>
@@ -150,7 +150,7 @@
                         <div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/4-1.jpg" alt="gtav_produto">
                             <div class="card-body row">
-                                <h5 class="item_compra card-title">Grand Theft Auto: V</h5>
+                                <h5 class="card-title item_compra col-md-12">Grand Theft Auto: V</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$99,90</p>
                                     <p class="card-text por">por: R$44,90</p>
@@ -162,7 +162,7 @@
                         </div><div class="card">
                             <img class="card-img-top" src="imagens_site/produtos/bo2.jpg" alt="bo2_produto">
                             <div class="card-body row">
-                                <h5 class="item_compra card-title">Call of Duty: Black Ops 2</h5>
+                                <h5 class="card-title item_compra col-md-12">Call of Duty: Black Ops 2</h5>
                                 <div class="col-md-6 preco">
                                     <p class="card-text de">de: R$69,90</p>
                                     <p class="card-text por">por: R$24,90</p>
@@ -176,7 +176,7 @@
                 </div>
             </div>
         </section>
-        <section id="consoles" class="section_consoles" col-md-12">
+        <section id="consoles" class="section_consoles col-md-12">
         <div class="div_consoles container">
             <div class="div_title_section col-md-12">
                 <h2 class="h2_title_section console">Consoles</h2>
@@ -184,7 +184,7 @@
                     <div class="card">
                         <img class="card-img-top" src="imagens_site/produtos/ps4-pro1.jpg" alt="ps4_pro">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">PlayStation 4: Pro 1Tb</h5>
+                            <h5 class="card-title item_compra col-md-12">PlayStation 4: Pro 1Tb</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">de: R$2.654,90</p>
                                 <p class="card-text por">por: R$2.469,90</p>
@@ -197,7 +197,7 @@
                     <div class="card">
                         <img class="card-img-top" src="imagens_site/produtos/ps4-slim.jpg" alt="ps4_slim">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">PlayStation 4: Slim 500Gb</h5>
+                            <h5 class="card-title item_compra col-md-12">PlayStation 4: Slim 500Gb</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">de: R$1.649,90</p>
                                 <p class="card-text por">por: R$1.249,90</p>
@@ -210,7 +210,7 @@
                     <div class="card">
                         <img class="card-img-top" src="imagens_site/produtos/switch.jpg" alt="nin_switch">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">Nintendo Switch 32Gb</h5>
+                            <h5 class="card-title item_compra col-md-12">Nintendo Switch 32Gb</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">de: R$2.999,90</p>
                                 <p class="card-text por">por: R$2.299,90</p>
@@ -221,12 +221,12 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img class="card-img-top" src="imagens_site/produtos/switch.jpg" alt="nin_switch">
+                        <img class="card-img-top" src="imagens_site/produtos/xboxones.jpg" alt="xbox">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">Nintendo Switch 32Gb</h5>
+                            <h5 class="card-title item_compra col-md-12">Xbox One S 1Tb</h5>
                             <div class="col-md-6 preco">
-                                <p class="card-text de">de: R$2.999,90</p>
-                                <p class="card-text por">por: R$2.299,90</p>
+                                <p class="card-text de">de: R$1.449,90</p>
+                                <p class="card-text por">por: R$1.249,90</p>
                             </div>
                             <div class="col-md-6 comprar">
                                 <a href="#" class="btn btn-primary">Comprar</a>
@@ -237,7 +237,7 @@
             </div>
         </div>
         </section>
-        <section id="vendidos" class="section_vendidos" col-md-12">
+        <section id="vendidos" class="section_vendidos col-md-12">
         <div class="div_vendidos container">
             <div class="div_title_section col-md-12">
                 <h2 class="h2_title_section vendidos">Mais Vendidos</h2>
@@ -245,7 +245,7 @@
                     <div class="card">
                         <img class="card-img-top" src="imagens_site/produtos/spiderman.fw.png" alt="miranha">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">Spider Man</h5>
+                            <h5 class="card-title item_compra col-md-12">Spider Man</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">A partir de:</p>
                                 <p class="card-text por">R$160,00</p>
@@ -258,7 +258,7 @@
                     <div class="card">
                         <img class="card-img-top" src="imagens_site/produtos/gow.fw.png" alt="godofwar">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">God Of War</h5>
+                            <h5 class="card-title item_compra col-md-12">God Of War</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">A partir de:</p>
                                 <p class="card-text por">R$120,00</p>
@@ -271,7 +271,7 @@
                     <div class="card">
                         <img class="card-img-top" src="imagens_site/produtos/reddead.fw.png" alt="reddead">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">Red Dead Redemption II</h5>
+                            <h5 class="card-title item_compra col-md-12">Red Dead Redemption II</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">A partir de:</p>
                                 <p class="card-text por">R$170,00</p>
@@ -282,9 +282,9 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img class="card-img-top" src="imagens_site/produtos/fc5.fw.png" alt="farcry">
+                        <img class="card-img-top" src="imagens_site/produtos/fc5.fw.png" alt="fc5">
                         <div class="card-body row">
-                            <h5 class="card-title item_compra">Far Cry 5</h5>
+                            <h5 class="card-title item_compra col-md-12">Far Cry 5</h5>
                             <div class="col-md-6 preco">
                                 <p class="card-text de">A partir de:</p>
                                 <p class="card-text por">R$150,00</p>
@@ -298,6 +298,31 @@
             </div>
         </div>
         </section>
+        <div style="clear: both;"></div>
+        <footer id="contato" class="final_footer container-fluid col-md-12">
+            <div class="container col-md-12">
+                <img class="image_footer col-md-3" src="imagens_site/logo2.png">
+            </div>
+            <div class="container">
+                <h2 class="titulo_loja">Resumo sobre a nossa loja</h2>
+                <div class="card col-md-3">
+                    <div class="card-body plano_loja">O plano da nossa loja é arrecadar
+                        fundos para projetos futuros sobre
+                        programação FrontEnd e BackEnd.
+                    </div>
+                </div>
+            </div>
+            <div class="map"></div>
+            <script>
+                var map;
+                function initMap() {
+                    map = new google.maps.Map(document.getElementById('map'), {
+                        center: {lat: -22.7717529, lng: -43.2941933},
+                        zoom: 8
+                    });
+                }
+            </script>
+        </footer>
         <?php
             include_once "include/script.php";
         ?>
