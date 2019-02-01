@@ -300,13 +300,21 @@
         </section>
         <div style="clear: both;"></div>
         <footer id="contato" class="final_footer container-fluid col-md-12">
+            <div class="div_localiza container col-md-12">
+                <h2 class="h2_localiza">Localização</h2>
+            </div>
+            <div class="div_contato_num container col-md-12">
+                <h2 class="h2_contato_num">Contato</h2>
+                <h3 class="h2_contato_wpp">Whatsapp</h3>
+                <h3 class="h2_contato_wpp_num">(21)96471-1417</h3>
+            </div>
             <div class="container col-md-12">
                 <img class="image_footer col-md-3" src="imagens_site/logo2.png">
             </div>
-            <div class="container">
+            <div class="container conteudo_footer">
                 <h2 class="titulo_loja">Resumo sobre a nossa loja</h2>
-                <div class="card col-md-3">
-                    <div class="card-body plano_loja">O plano da nossa loja é arrecadar
+                <div class="col-md-3">
+                    <div class="plano_loja">O plano da nossa loja é arrecadar
                         fundos para projetos futuros sobre
                         programação FrontEnd e BackEnd.
                     </div>
@@ -318,7 +326,7 @@
                 function initMap() {
                     map = new google.maps.Map(document.getElementById('map'), {
                         center: {lat: -22.7717529, lng: -43.2941933},
-                        zoom: 8
+                        zoom: 16
                     });
                 }
             </script>

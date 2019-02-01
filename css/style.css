@@ -3,6 +3,12 @@
     src: url("https://fonts.googleapis.com/css?family=Lato");
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 /*Scroll*/
 
 ::-webkit-scrollbar {
@@ -192,13 +198,12 @@
 /*footer*/
 
 .final_footer {
-    padding: 100px;
-    border: 30px;
     background-color: #33A0D2;
+    height: 350px;
 }
 
 .image_footer {
-    top: -50px;
+    top: -100px;
     left: 120px;
 }
 
@@ -206,8 +211,8 @@
     padding: 0px;
     border: 0px;
     margin: 0px;
-    left: 50px;
-    top: -40px;
+    left: 110px;
+    top: -100px;
     position: relative;
     font-size: 15pt;
     color: #ffffff;
@@ -216,11 +221,11 @@
 }
 
 .plano_loja {
-    position: absolute;
+    position: relative;
     font-style: italic;
     text-align: center;
-    top: -60px;
-    left: -10px;
+    top: -90px;
+    left: 70px;
     padding: 0px;
     border: 0px;
     margin: 0px;
@@ -230,10 +235,58 @@
 }
 
 .map {
-    height: 100%;
+    position: relative;
+    height: 200px;
+    width: 350px;
+    top: -255px;
+    left: 950px;
+    background-color: transparent;
 }
 
+.h2_localiza {
+    position: relative;
+    color: #ffffff;
+    width: 30%;
+    font-family: 'Oswald';
+    font-size: 18pt;
+    left: 935px;
+    border-left: 5px solid #1A50A0;
+    padding-left: 8px;
+    top: 30px;
+}
 
+.h2_contato_num {
+    position: relative;
+    color: #ffffff;
+    width: 30%;
+    font-family: 'Oswald';
+    font-size: 18pt;
+    top: 0px;
+    left: 700px;
+    border-left: 5px solid #1A50A0;
+    padding-left: 8px;
+}
 
+.h2_contato_wpp {
+    position: relative;
+    color: #ffffff;
+    width: 30%;
+    font-family: 'Oswald';
+    font-style: italic;
+    font-size: 13pt;
+    top: 10px;
+    left: 690px;
+    padding-left: 8px;
+}
 
-
+.h2_contato_wpp_num {
+    position: relative;
+    color: #ffffff;
+    width: 30%;
+    font-family: 'Oswald';
+    font-style: italic;
+    font-size: 15pt;
+    top: 10px;
+    left: 690px;
+    padding-left: 8px;
+}
