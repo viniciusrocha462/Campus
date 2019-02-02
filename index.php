@@ -308,7 +308,7 @@
                 <h3 class="h2_contato_wpp">Whatsapp</h3>
                 <h3 class="h2_contato_wpp_num">(21)96471-1417</h3>
             </div>
-            <div class="container col-md-12">
+            <div class="container col-md-12 col-1">
                 <img class="image_footer col-md-3" src="imagens_site/logo2.png">
             </div>
             <div class="container conteudo_footer">
@@ -319,6 +319,11 @@
                         programação FrontEnd e BackEnd.
                     </div>
                 </div>
+            </div>
+            <div class="redes_sociais container-fluid">
+                <a href="https://www.facebook.com/Lord.ViniciusSnow" target="_blank"><img class="img_fb col-md-1" src="imagens_site/rede_social/facebook.png" alt="Facebook"></a>
+                <a href="https://www.instagram.com/viniciussnow.jpeg/" target="_blank"><img class="img_ig col-md-1" src="imagens_site/rede_social/instagram.png" alt="Instagram"></a>
+                <a href="https://twitter.com/vinicciiussnow" target="_blank"><img class="img_tt col-md-1" src="imagens_site/rede_social/twitter.png" alt=Twitter"></a>
             </div>
             <div class="map"></div>
             <script>

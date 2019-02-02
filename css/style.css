@@ -20,11 +20,11 @@ html, body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #33A0D2;
+    background: #0059B2;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #33A0D2;
+    background: #0059B2;
 }
 
 /*Header*/
@@ -182,7 +182,7 @@ html, body {
 }
 
 .section_vendidos {
-    margin: -31px;
+    margin: -30px;
     padding: 0px;
     height: auto;
     background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
@@ -289,4 +289,30 @@ html, body {
     top: 10px;
     left: 690px;
     padding-left: 8px;
+}
+
+.redes_sociais {
+    background-color: #1A50A0;
+    padding: 10px;
+}
+
+.img_fb {
+    position: absolute;
+    top: 100%;
+    left: 90%;
+    width: 80px !important;
+}
+
+.img_ig {
+    position: absolute;
+    top: 100%;
+    left: 75%;
+    width: 80px !important;
+}
+
+.img_tt {
+    position: absolute;
+    top: 100%;
+    left: 60%;
+    width: 80px !important;
 }
