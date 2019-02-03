@@ -35,7 +35,7 @@ html, body {
 
 #barraPesquisa {
     padding: 10px;
-    font: 13px;
+    font-size: 13px;
     color: #999999;
     margin-top: 7px;
     border: 2px solid #33A0D2;
@@ -182,12 +182,12 @@ html, body {
 }
 
 .section_vendidos {
-    margin: -30px;
+    margin-left: -30px;
     padding: 0px;
     height: auto;
     background-image: linear-gradient(to right, white, rgba(0,0,0,.2), white);
     left: 30px;
-    padding-bottom: 160px;
+    padding-bottom: 120px;
 }
 
 .card-body {
@@ -199,120 +199,101 @@ html, body {
 
 .final_footer {
     background-color: #33A0D2;
-    height: 350px;
+    border-bottom: 50px solid #1A50A0;
 }
 
-.image_footer {
-    top: -100px;
-    left: 120px;
-}
-
-.titulo_loja {
+.div_localiza {
+    position: absolute;
+    top: 30px;
+    left: 30%;
     padding: 0px;
-    border: 0px;
     margin: 0px;
-    left: 110px;
-    top: -100px;
-    position: relative;
-    font-size: 15pt;
-    color: #ffffff;
-    background-color: #33A0D2;
-    font-family: 'Oswald';
-}
-
-.plano_loja {
-    position: relative;
-    font-style: italic;
-    text-align: center;
-    top: -90px;
-    left: 70px;
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
-    color: #ffffff;
-    font-family: 'Oswald';
-    background-color: #33A0D2;
-}
-
-.map {
-    position: relative;
-    height: 200px;
-    width: 350px;
-    top: -255px;
-    left: 950px;
-    background-color: transparent;
 }
 
 .h2_localiza {
-    position: relative;
-    color: #ffffff;
-    width: 30%;
     font-family: 'Oswald';
     font-size: 18pt;
-    left: 935px;
     border-left: 5px solid #1A50A0;
-    padding-left: 8px;
-    top: 30px;
+    padding-left: 5px;
+    color: #ffffff;
+}
+
+.div_contato_num {
+    position: absolute;
+    top: -6px;
+    left: 12%;
 }
 
 .h2_contato_num {
-    position: relative;
-    color: #ffffff;
-    width: 30%;
     font-family: 'Oswald';
     font-size: 18pt;
-    top: 0px;
-    left: 700px;
     border-left: 5px solid #1A50A0;
-    padding-left: 8px;
+    padding-left: 5px;
+    color: #ffffff;
 }
 
 .h2_contato_wpp {
-    position: relative;
-    color: #ffffff;
-    width: 30%;
-    font-family: 'Oswald';
-    font-style: italic;
+    font-family: 'Sarabun';
     font-size: 13pt;
-    top: 10px;
-    left: 690px;
-    padding-left: 8px;
+    font-style: italic;
+    color: #ffffff;
 }
 
 .h2_contato_wpp_num {
-    position: relative;
-    color: #ffffff;
-    width: 30%;
-    font-family: 'Oswald';
-    font-style: italic;
+    font-family: 'Sarabun';
     font-size: 15pt;
-    top: 10px;
-    left: 690px;
-    padding-left: 8px;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.image_footer {
+    position: absolute;
+    top: -100px;
+    left: 6%;
+}
+
+.titulo_loja {
+    font-family: 'Oswald';
+    font-size: 15pt;
+    border-left: 5px solid #1A50A0;
+    color: #ffffff;
+    position: absolute;
+    top: -50px;
+    left: 2%;
+}
+
+.div_plano_loja {
+    position: absolute;
+    left: -2%;
+}
+
+.plano_loja {
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 14pt;
+    font-style: italic;
+    color: #ffffff;
+    position: absolute;
+    top: -50px;
 }
 
 .redes_sociais {
-    background-color: #1A50A0;
-    padding: 10px;
+    position: absolute;
+    left: 30%;
+    top: 46px;
 }
 
 .img_fb {
     position: absolute;
-    top: 100%;
     left: 90%;
-    width: 80px !important;
 }
 
 .img_ig {
     position: absolute;
-    top: 100%;
-    left: 75%;
-    width: 80px !important;
+    left: 73%;
 }
 
 .img_tt {
     position: absolute;
-    top: 100%;
-    left: 60%;
-    width: 80px !important;
+    left: 56%;
 }

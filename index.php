@@ -298,43 +298,32 @@
             </div>
         </div>
         </section>
-        <div style="clear: both;"></div>
-        <footer id="contato" class="final_footer container-fluid col-md-12">
-            <div class="div_localiza container col-md-12">
+        <footer id="contato" class="final_footer container-fluid">
+            <div class="div_localiza container col-md-2">
                 <h2 class="h2_localiza">Localização</h2>
             </div>
-            <div class="div_contato_num container col-md-12">
+            <div class="div_contato_num container col-md-2">
                 <h2 class="h2_contato_num">Contato</h2>
                 <h3 class="h2_contato_wpp">Whatsapp</h3>
                 <h3 class="h2_contato_wpp_num">(21)96471-1417</h3>
             </div>
-            <div class="container col-md-12 col-1">
+            <div class="div_img_footer container col-md-12">
                 <img class="image_footer col-md-3" src="imagens_site/logo2.png">
             </div>
             <div class="container conteudo_footer">
-                <h2 class="titulo_loja">Resumo sobre a nossa loja</h2>
-                <div class="col-md-3">
-                    <div class="plano_loja">O plano da nossa loja é arrecadar
+                <h2 class="titulo_loja col-md-4">Resumo sobre a nossa loja</h2>
+                <div class="div_plano_loja col-md-12">
+                    <div class="plano_loja col-md-3">&nbsp;&nbsp;&nbsp;O plano da nossa loja é arrecadar
                         fundos para projetos futuros sobre
                         programação FrontEnd e BackEnd.
                     </div>
                 </div>
             </div>
-            <div class="redes_sociais container-fluid">
+            <div class="redes_sociais col-md-8">
                 <a href="https://www.facebook.com/Lord.ViniciusSnow" target="_blank"><img class="img_fb col-md-1" src="imagens_site/rede_social/facebook.png" alt="Facebook"></a>
                 <a href="https://www.instagram.com/viniciussnow.jpeg/" target="_blank"><img class="img_ig col-md-1" src="imagens_site/rede_social/instagram.png" alt="Instagram"></a>
                 <a href="https://twitter.com/vinicciiussnow" target="_blank"><img class="img_tt col-md-1" src="imagens_site/rede_social/twitter.png" alt=Twitter"></a>
             </div>
-            <div class="map"></div>
-            <script>
-                var map;
-                function initMap() {
-                    map = new google.maps.Map(document.getElementById('map'), {
-                        center: {lat: -22.7717529, lng: -43.2941933},
-                        zoom: 16
-                    });
-                }
-            </script>
         </footer>
         <?php
             include_once "include/script.php";
