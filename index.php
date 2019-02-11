@@ -12,17 +12,15 @@
           <div class="col-md-8 text-center">
 
             <div class="mb-5 element-animate">
-              <h1>Learn From Doing</h1>
-              <p class="lead">Learn something new every day with skwela lorem ipsum dolor sit amet.</p>
-              <p><a href="#" class="btn btn-primary">Sign up and get a 7-day free trial</a></p>
+              <h1>Campus</h1>
+              <p class="lead">Transforme cada novo desafio em oportunidade de aprendizado e crescimento</p>
+              <p><a href="#" class="btn btn-primary">Se inscreva e ganhe 7 dias grátis</a></p>
             </div>
-
 
           </div>
         </div>
       </div>
     </section>
-    <!-- END section -->
 
     <section class="school-features d-flex" style="background-image: url(images/big_image_3.jpg);">
 

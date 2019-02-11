@@ -11,37 +11,27 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="index.php">Início</a>
                     </li>
+
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="courses.php" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Cursos</a>
                         <div class="dropdown-menu" aria-labelledby="dropdown04">
-                            <a class="dropdown-item" href="courses.php">HTML</a>
-                            <a class="dropdown-item" href="courses.php">WordPress</a>
-                            <a class="dropdown-item" href="courses.php">Web Development</a>
+                            <a class="dropdown-item" href="courses.php">Html</a>
+                            <a class="dropdown-item" href="courses.php">Css</a>
+                            <a class="dropdown-item" href="courses.php">Bootstrap 4</a>
                             <a class="dropdown-item" href="courses.php">Javascript</a>
-                            <a class="dropdown-item" href="courses.php">Photoshop</a>
+                            <a class="dropdown-item" href="courses.php">Git</a>
+                            <a class="dropdown-item" href="courses.php">Laravel</a>
+                            <a class="dropdown-item" href="courses.php">Laravel Com ASL</a>
                         </div>
-
                     </li>
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown05">
-                            <a class="dropdown-item" href="#">HTML</a>
-                            <a class="dropdown-item" href="#">WordPress</a>
-                            <a class="dropdown-item" href="#">Web Development</a>
-                            <a class="dropdown-item" href="#">Javascript</a>
-                            <a class="dropdown-item" href="#">Photoshop</a>
-                        </div>
+                    </li>
 
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.php">Sobre</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="blog.php">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.php">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
+                        <a class="nav-link" href="contact.php">Contato</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav absolute-right">
@@ -49,7 +39,7 @@
                         <a href="login.php" class="nav-link">Login</a>
                     </li>
                     <li class="nav-item">
-                        <a href="register.php" class="nav-link">Register</a>
+                        <a href="register.php" class="nav-link">Registro</a>
                     </li>
                 </ul>
 
