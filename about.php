@@ -1,11 +1,11 @@
 <html lang="en">
     <?php
-    include_once "layout/head.php";
+        include_once "layout/head.php";
     ?>
   <body>
-      <?php
-      include_once "layout/header.php";
-      ?>
+    <?php
+        include_once "layout/header.php";
+    ?>
     <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
