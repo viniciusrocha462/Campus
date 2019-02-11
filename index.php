@@ -34,7 +34,7 @@
           <div class="icon"><span class="flaticon-video-call"></span></div>
           <div class="media-body">
             <h3 class="mt-0">Cursos onlines por experientes</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
+            <p>Professores expecialistas </p>
           </div>
         </div>
 
@@ -42,7 +42,7 @@
           <div class="icon"><span class="flaticon-student"></span></div>
           <div class="media-body">
             <h3 class="mt-0">Aprenda em qualquer lugar do mundo</h3>
-            <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
+            <p>Você tem a disponibilidade dos cursos em qualquer lugar, é só utilizar seu computador onde quer que esteja</p>
           </div>
         </div>
 
@@ -50,7 +50,7 @@
           <div class="icon"><span class="flaticon-video-player-1"></span></div>
           <div class="media-body">
             <h3 class="mt-0">Vídeos criativos de aprendizado</h3>
-            <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
+            <p>Vídeos bem explicativos e criativos para o fácil entendimento</p>
           </div>
         </div>
 
@@ -59,7 +59,7 @@
           <div class="icon"><span class="flaticon-audiobook"></span></div>
           <div class="media-body">
             <h3 class="mt-0">Aprendizado com áudio</h3>
-            <p>Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?</p>
+            <p>Áudios explicativos para o fácil entendimento</p>
           </div>
         </div>
       </div>

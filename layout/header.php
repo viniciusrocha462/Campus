@@ -21,7 +21,7 @@
                             <a class="dropdown-item" href="courses.php">Javascript</a>
                             <a class="dropdown-item" href="courses.php">Git</a>
                             <a class="dropdown-item" href="courses.php">Laravel</a>
-                            <a class="dropdown-item" href="courses.php">Laravel Com ASL</a>
+                            <a class="dropdown-item" href="courses.php">Laravel Com ACL</a>
                         </div>
                     </li>
 

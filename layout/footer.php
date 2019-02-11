@@ -3,7 +3,7 @@
         <div class="row mb-5">
             <div class="col-md-4">
                 <h3>Sobre</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, accusantium optio unde perferendis eum illum voluptatibus dolore tempora, consequatur minus asperiores temporibus reprehenderit.</p>
+                <p>Somos uma empresa com programadores, focados em ...</p>
             </div>
             <div class="col-md-6 ml-auto">
                 <div class="row">
