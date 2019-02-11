@@ -24,7 +24,7 @@
      
       <nav class="navbar navbar-expand-md navbar-dark bg-light">
         <div class="container">
-          <a class="navbar-brand absolute" href="index.html">Skwela</a>
+          <a class="navbar-brand absolute" href="index.php">Skwela</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -32,16 +32,16 @@
           <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
-                <a class="nav-link active" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="courses.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Online Courses</a>
+                <a class="nav-link dropdown-toggle" href="courses.php" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Online Courses</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="courses.html">HTML</a>
-                  <a class="dropdown-item" href="courses.html">WordPress</a>
-                  <a class="dropdown-item" href="courses.html">Web Development</a>
-                  <a class="dropdown-item" href="courses.html">Javascript</a>
-                  <a class="dropdown-item" href="courses.html">Photoshop</a>
+                  <a class="dropdown-item" href="courses.php">HTML</a>
+                  <a class="dropdown-item" href="courses.php">WordPress</a>
+                  <a class="dropdown-item" href="courses.php">Web Development</a>
+                  <a class="dropdown-item" href="courses.php">Javascript</a>
+                  <a class="dropdown-item" href="courses.php">Photoshop</a>
                 </div>
 
               </li>
@@ -58,21 +58,21 @@
 
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="blog.html">Blog</a>
+                <a class="nav-link active" href="blog.php">Blog</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
               </li>
             </ul>
             <ul class="navbar-nav absolute-right">
               <li class="nav-item">
-                <a href="login.html" class="nav-link">Login</a>
+                <a href="login.php" class="nav-link">Login</a>
               </li>
               <li class="nav-item">
-                <a href="register.html" class="nav-link">Register</a>
+                <a href="register.php" class="nav-link">Register</a>
               </li>
             </ul>
             
@@ -82,154 +82,14 @@
     </header>
     <!-- END header -->
 
-    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
 
             <div class="mb-5 element-animate">
-              <h1>Learn From Doing</h1>
-              <p class="lead">Learn something new every day with skwela lorem ipsum dolor sit amet.</p>
-              <p><a href="#" class="btn btn-primary">Sign up and get a 7-day free trial</a></p>
+              <h1>Our Blog</h1>
             </div>
-
-            
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- END section -->
-
-    <section class="school-features d-flex" style="background-image: url(images/big_image_3.jpg);">
-
-      <div class="inner">
-        <div class="media d-block feature">
-          <div class="icon"><span class="flaticon-video-call"></span></div>
-          <div class="media-body">
-            <h3 class="mt-0">Online trainings from experts</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-          </div>
-        </div>
-
-        <div class="media d-block feature">
-          <div class="icon"><span class="flaticon-student"></span></div>
-          <div class="media-body">
-            <h3 class="mt-0">Learn anywhere in the world</h3>
-            <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
-          </div>
-        </div>
-
-        <div class="media d-block feature">
-          <div class="icon"><span class="flaticon-video-player-1"></span></div>
-          <div class="media-body">
-            <h3 class="mt-0">Creative learning video</h3>
-            <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
-          </div>
-        </div>
-
-
-        <div class="media d-block feature">
-          <div class="icon"><span class="flaticon-audiobook"></span></div>
-          <div class="media-body">
-            <h3 class="mt-0">Audio learning</h3>
-            <p>Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?</p>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- END section -->
-
-
-    <section class="site-section">
-      <div class="container">
-        <section class="school-features text-dark d-flex">
-
-          <div class="inner">
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-video-call"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Online trainings from experts</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-              </div>
-            </div>
-
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-student"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Learn anywhere in the world</h3>
-                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
-              </div>
-            </div>
-
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-video-player-1"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Creative learning video</h3>
-                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
-              </div>
-            </div>
-
-
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-audiobook"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Audio learning</h3>
-                <p>Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <section class="school-features text-dark last d-flex">
-
-          <div class="inner">
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-student-1"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Online trainings from experts</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-              </div>
-            </div>
-
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-interface"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Learn anywhere in the world</h3>
-                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
-              </div>
-            </div>
-
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-book"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Creative learning video</h3>
-                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
-              </div>
-            </div>
-
-
-            <div class="media d-block feature">
-              <div class="icon"><span class="flaticon-geography"></span></div>
-              <div class="media-body">
-                <h3 class="mt-0">Audio learning</h3>
-                <p>Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-
-      </div>
-    </section>
-    <!-- END section -->
-
-    <section class="section-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_3.jpg);">
-      <div class="container">
-        <div class="row justify-content-center align-items-center intro">
-          <div class="col-md-7 text-center element-animate">
-            <h2>Sign Up And Get a 7-day Free Trial</h2>
-            <p class="lead mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto quidem tempore expedita facere facilis, dolores!</p>
-            <p><a href="#" class="btn btn-primary">Sign up and get a 7-day free trial</a></p>
           </div>
         </div>
       </div>
@@ -241,77 +101,174 @@
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center">
-            <h2>Top Courses</h2>
+            <h2>We Share Our Thoughts</h2>
             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magnam illum maiores adipisci pariatur, eveniet.</p>
           </div>
         </div>
-        <div class="row top-course">
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/webdesign.jpg" alt="Image placeholder">
-              <h2>Web Design 101</h2>
-              <p>Enroll Now</p>
+        <div class="row blog-entries">
+          <div class="col-md-4 col-sm-6 col-12">
+            <a href="blog-single.php" class="blog-entry">
+              <img src="images/img_1.jpg" alt="Image placeholder">
+              <h2>College vs. ELearning</h2>
+              <p>January 3, 2018</p>
             </a>
           </div>
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/wordpress.jpg" alt="Image placeholder">
+          <div class="col-md-4 col-sm-6 col-12">
+            <a href="blog-single.php" class="blog-entry">
+              <img src="images/img_2.jpg" alt="Image placeholder">
               <h2>Learn How To Develop WordPress Plugin</h2>
-              <p>Enroll Now</p>
+              <p>January 3, 2018</p>
             </a>
           </div>
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/javascript.jpg" alt="Image placeholder">
-              <h2>JavaScript 101</h2>
-              <p>Enroll Now</p>
+
+          <div class="col-md-4 col-sm-6 col-12">
+            <a href="blog-single.php" class="blog-entry">
+              <img src="images/img_3.jpg" alt="Image placeholder">
+              <h2>Why We Love To Teach You</h2>
+              <p>January 3, 2018</p>
             </a>
           </div>
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/photoshop.jpg" alt="Image placeholder">
-              <h2>Photoshop Design 101</h2>
-              <p>Enroll Now</p>
-            </a>
-          </div>
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/reactjs.jpg" alt="Image placeholder">
-              <h2>Learn Native ReactJS</h2>
-              <p>Enroll Now</p>
-            </a>
-          </div>
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/angularjs.jpg" alt="Image placeholder">
-              <h2>Learn AngularJS 2</h2>
-              <p>Enroll Now</p>
-            </a>
-          </div>
+
         </div>
+
+        <!-- END row -->
+
+        <div class="row blog-entries">
+          <div class="col-md-4 col-sm-6 col-12">
+            <a href="blog-single.php" class="blog-entry">
+              <img src="images/img_2.jpg" alt="Image placeholder">
+              <h2>College vs. ELearning</h2>
+              <p>January 3, 2018</p>
+            </a>
+          </div>
+          <div class="col-md-4 col-sm-6 col-12">
+            <a href="blog-single.php" class="blog-entry">
+              <img src="images/img_3.jpg" alt="Image placeholder">
+              <h2>Learn How To Develop WordPress Plugin</h2>
+              <p>January 3, 2018</p>
+            </a>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12">
+            <a href="blog-single.php" class="blog-entry">
+              <img src="images/img_1.jpg" alt="Image placeholder">
+              <h2>Why We Love To Teach You</h2>
+              <p>January 3, 2018</p>
+            </a>
+          </div>
+
+        </div>
+
+        <!-- END row -->
+
+       
       </div>
     </section>
     <!-- END section -->
-  
-    <section class="overflow">
+
+    <section class="site-section">
       <div class="container">
-        <div class="row justify-content-center align-items-center">
-          
-          
-          <div class="col-lg-7 order-lg-3 order-1 mb-lg-0 mb-5">
-            <img src="images/person_testimonial_1.jpg" alt="Image placeholder" class="img-md-fluid">
-          </div>
-          <div class="col-lg-1 order-lg-2"></div>
-          <div class="col-lg-4 order-lg-1 order-2 mb-lg-0 mb-5">
-            <blockquote class="testimonial">
-              &ldquo; Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt incidunt nihil ab cumque molestiae commodi. &rdquo;
-            </blockquote>
-            <p>&mdash; John Doe, Certified ReactJS Student</p>
+        <div class="row justify-content-center mb-5">
+          <div class="col-md-7 text-center">
+            <h2>Meet Your Instructors</h2>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magnam illum maiores adipisci pariatur, eveniet.</p>
           </div>
         </div>
+        <section class="school-features text-dark d-flex">
+
+          <div class="inner">
+            <div class="media d-block feature text-center">
+              <img src="images/person_1.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Rhea Smith</h3>
+                <p class="instructor-meta">WordPress Expert</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
+              </div>
+            </div>
+
+            <div class="media d-block feature text-center">
+              <img src="images/person_2.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Gregg White</h3>
+                <p class="instructor-meta">HTML4, CSS3 Expert</p>
+                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
+              </div>
+            </div>
+
+            <div class="media d-block feature text-center">
+              <img src="images/person_3.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Rob Gold</h3>
+                <p class="instructor-meta">JS Expert</p>
+                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
+              </div>
+            </div>
+
+
+            <div class="media d-block feature text-center">
+              <img src="images/person_4.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Wennie Poe</h3>
+                <p class="instructor-meta">Angular JS Expert</p>
+                <p>Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="school-features text-dark last d-flex">
+
+          <div class="inner">
+            <div class="media d-block feature text-center">
+              <img src="images/person_1.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Rhea Smith</h3>
+                <p class="instructor-meta">WordPress Expert</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
+              </div>
+            </div>
+
+            <div class="media d-block feature text-center">
+              <img src="images/person_2.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Gregg White</h3>
+                <p class="instructor-meta">Photoshop Expert</p>
+                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
+              </div>
+            </div>
+
+            <div class="media d-block feature text-center">
+              <img src="images/person_3.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Rob Gold</h3>
+                <p class="instructor-meta">Web Design Expert</p>
+                <p>Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.</p>
+              </div>
+            </div>
+
+
+            <div class="media d-block feature text-center">
+              <img src="images/person_4.jpg" alt="Image placeholder" class="mb-3">
+              <div class="media-body">
+                <h3 class="mt-0">Wennie Poe</h3>
+                <p class="instructor-meta">React JS Expert</p>
+                <p>Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?</p>
+              </div>
+            </div>
+          </div>
+
+
+        </section>
+
+
       </div>
     </section>
     <!-- END section -->
+
+    
+
+
+    
   
     <footer class="site-footer" style="background-image: url(images/big_image_3.jpg);">
       <div class="container">

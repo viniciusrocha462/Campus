@@ -24,7 +24,7 @@
      
       <nav class="navbar navbar-expand-md navbar-dark bg-light">
         <div class="container">
-          <a class="navbar-brand absolute" href="index.html">Skwela</a>
+          <a class="navbar-brand absolute" href="index.php">Skwela</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -32,16 +32,16 @@
           <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="courses.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Online Courses</a>
+                <a class="nav-link dropdown-toggle" href="courses.php" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Online Courses</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown04">
-                  <a class="dropdown-item" href="courses.html">HTML</a>
-                  <a class="dropdown-item" href="courses.html">WordPress</a>
-                  <a class="dropdown-item" href="courses.html">Web Development</a>
-                  <a class="dropdown-item" href="courses.html">Javascript</a>
-                  <a class="dropdown-item" href="courses.html">Photoshop</a>
+                  <a class="dropdown-item" href="courses.php">HTML</a>
+                  <a class="dropdown-item" href="courses.php">WordPress</a>
+                  <a class="dropdown-item" href="courses.php">Web Development</a>
+                  <a class="dropdown-item" href="courses.php">Javascript</a>
+                  <a class="dropdown-item" href="courses.php">Photoshop</a>
                 </div>
 
               </li>
@@ -58,21 +58,21 @@
 
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="blog.html">Blog</a>
+                <a class="nav-link" href="blog.php">Blog</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link active" href="contact.php">Contact</a>
               </li>
             </ul>
             <ul class="navbar-nav absolute-right">
               <li class="nav-item">
-                <a href="login.html" class="nav-link">Login</a>
+                <a href="login.php" class="nav-link">Login</a>
               </li>
               <li class="nav-item">
-                <a href="register.html" class="nav-link active">Register</a>
+                <a href="register.php" class="nav-link">Register</a>
               </li>
             </ul>
             
@@ -88,7 +88,7 @@
           <div class="col-md-8 text-center">
 
             <div class="mb-5 element-animate">
-              <h1>Register</h1>
+              <h1>Contact Us</h1>
             </div>
           </div>
         </div>
@@ -99,33 +99,32 @@
 
     <section class="site-section bg-light">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-5 box">
-            <h2 class="mb-5">Register new account</h2>
+        <div class="row">
+          <div class="col-md-12">
             <form action="#" method="post">
-                  
                   <div class="row">
-                    <div class="col-md-12 form-group">
-                      <label for="name">Email Address</label>
+                    <div class="col-md-4 form-group">
+                      <label for="name">Name</label>
                       <input type="text" id="name" class="form-control ">
                     </div>
+                    <div class="col-md-4 form-group">
+                      <label for="phone">Phone</label>
+                      <input type="text" id="phone" class="form-control ">
+                    </div>
+                    <div class="col-md-4 form-group">
+                      <label for="email">Email</label>
+                      <input type="email" id="email" class="form-control ">
+                    </div>
                   </div>
                   <div class="row">
                     <div class="col-md-12 form-group">
-                      <label for="name">Password</label>
-                      <input type="password" id="name" class="form-control ">
+                      <label for="message">Write Message</label>
+                      <textarea name="message" id="message" class="form-control " cols="30" rows="8"></textarea>
                     </div>
                   </div>
-                  <div class="row mb-5">
-                    <div class="col-md-12 form-group">
-                      <label for="name">Re-type Password</label>
-                      <input type="password" id="name" class="form-control ">
-                    </div>
-                  </div>
-                  
                   <div class="row">
                     <div class="col-md-6 form-group">
-                      <input type="submit" value="Login" class="btn btn-primary">
+                      <input type="submit" value="Send Message" class="btn btn-primary">
                     </div>
                   </div>
                 </form>
