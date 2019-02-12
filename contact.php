@@ -8,7 +8,7 @@
       include_once "layout/header.php";
       ?>
 
-    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/contact-us.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -30,11 +30,11 @@
             <form action="#" method="post">
                   <div class="row">
                     <div class="col-md-4 form-group">
-                      <label for="name">Name</label>
+                      <label for="name">Nome</label>
                       <input type="text" id="name" class="form-control ">
                     </div>
                     <div class="col-md-4 form-group">
-                      <label for="phone">Phone</label>
+                      <label for="phone">Telefone</label>
                       <input type="text" id="phone" class="form-control ">
                     </div>
                     <div class="col-md-4 form-group">
@@ -44,13 +44,13 @@
                   </div>
                   <div class="row">
                     <div class="col-md-12 form-group">
-                      <label for="message">Write Message</label>
-                      <textarea name="message" id="message" class="form-control " cols="30" rows="8"></textarea>
+                      <label for="message">Mensagem</label>
+                      <textarea name="message" id="message" class="form-control " cols="30" rows="8" placeholder="Escreva sua mensagem"></textarea>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-md-6 form-group">
-                      <input type="submit" value="Send Message" class="btn btn-primary">
+                      <input type="submit" value="Envie a mensagem" class="btn btn-primary">
                     </div>
                   </div>
                 </form>
@@ -66,14 +66,14 @@
           
           
           <div class="col-lg-7 order-lg-3 order-1 mb-lg-0 mb-5">
-            <img src="images/person_testimonial_1.jpg" alt="Image placeholder" class="img-md-fluid">
+            <img src="images/contact-banner.jpg" alt="Image placeholder" class="img-md-fluid">
           </div>
           <div class="col-lg-1 order-lg-2"></div>
           <div class="col-lg-4 order-lg-1 order-2 mb-lg-0 mb-5">
             <blockquote class="testimonial">
-              &ldquo; Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt incidunt nihil ab cumque molestiae commodi. &rdquo;
+              Entre em contato conosco para um melhor atendimento, assim podemos levar suas dúvidas direto ao ponto
             </blockquote>
-            <p>&mdash; John Doe, Certified ReactJS Student</p>
+            <p></p>
           </div>
         </div>
       </div>

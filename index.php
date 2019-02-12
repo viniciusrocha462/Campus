@@ -8,8 +8,9 @@
   <?php
     include_once "layout/header.php";
   ?>
+    <!-- Painel Inicial -->
 
-    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
+    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/index.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -20,8 +21,7 @@
               <p><a href="register.php" class="btn btn-primary">Cadastre-se e ganhe 7 dias grátis</a></p>
             </div>
 
-            
-          </div>
+           </div>
         </div>
       </div>
     </section>
@@ -173,44 +173,44 @@
         <div class="row top-course">
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/webdesign.jpg" alt="Image placeholder">
-              <h2>Web Design 101</h2>
-              <p>Enroll Now</p>
+              <img src="images/html.jpg" alt="Image placeholder">
+              <h2>HTML 5</h2>
+              <p>por Vinicius Rocha</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/wordpress.jpg" alt="Image placeholder">
-              <h2>Learn How To Develop WordPress Plugin</h2>
-              <p>Enroll Now</p>
+              <img src="images/css.jpg" alt="Image placeholder">
+              <h2>CSS 3</h2>
+              <p>por Vinicius Rocha</p>
+            </a>
+          </div>
+          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
+            <a href="#" class="course">
+              <img src="images/bootstrap.jpg" alt="Image placeholder">
+              <h2>Bootstrap 4</h2>
+              <p>por Raniery Peixoto</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
               <img src="images/javascript.jpg" alt="Image placeholder">
-              <h2>JavaScript 101</h2>
-              <p>Enroll Now</p>
+              <h2>JavaScript</h2>
+              <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/photoshop.jpg" alt="Image placeholder">
-              <h2>Photoshop Design 101</h2>
-              <p>Enroll Now</p>
+              <img src="images/git.jpg" alt="Image placeholder">
+              <h2>Git</h2>
+              <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/reactjs.jpg" alt="Image placeholder">
-              <h2>Learn Native ReactJS</h2>
-              <p>Enroll Now</p>
-            </a>
-          </div>
-          <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-            <a href="#" class="course">
-              <img src="images/angularjs.jpg" alt="Image placeholder">
-              <h2>Learn AngularJS 2</h2>
-              <p>Enroll Now</p>
+              <img src="images/laravel.jpg" alt="Image placeholder">
+              <h2>Laravel</h2>
+              <p>por Nathália Ferreira</p>
             </a>
           </div>
         </div>
@@ -224,14 +224,14 @@
           
           
           <div class="col-lg-7 order-lg-3 order-1 mb-lg-0 mb-5">
-            <img src="images/person_testimonial_1.jpg" alt="Image placeholder" class="img-md-fluid">
+            <img src="images/img_5.jpg" alt="Image placeholder" class="img-md-fluid">
           </div>
           <div class="col-lg-1 order-lg-2"></div>
           <div class="col-lg-4 order-lg-1 order-2 mb-lg-0 mb-5">
             <blockquote class="testimonial">
-              &ldquo; ainda vou pensar em algo &rdquo;
+              &ldquo; Aqui te ajudaremos a desenvolver um site completamente responsivo a base de Html, Css e Bootstrap, com detalhes e efeitos. E ensinaremos a deixar seu Banco de Dados limpo e sem defeito. &rdquo;
             </blockquote>
-            <p>&mdash; Snow, Vinicius - Estudante de FrontEnd</p>
+            <p>&mdash; Vinicius Rocha - Estudante de FrontEnd</p>
           </div>
         </div>
       </div>
