@@ -6,7 +6,7 @@
     <?php
         include_once "layout/header.php";
     ?>
-    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/sobre.jpg);">
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio=0.5 style="background-image: url(images/sobre2.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -65,8 +65,7 @@
           <div class="col-md-5 order-1">
             <h2 class="mb-4">Nossa Empresa</h2>
             <p>Nossa equipe consiste em 4 pessoas, sendo 2 Front-end e 2 Back-end.</p>
-            <p></p>
-            <p></p>
+            <p>Como primeiro projeto da equipe, desenvolvemos o Sistema "Campus", que veio para facilitar a vida dos estudantes na área da Programação, com videos de facil aprendizado, Questionarios e Trascrições.</p>
           </div>
 
         </div>
