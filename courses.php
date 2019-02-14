@@ -44,7 +44,7 @@
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-12">
-            <a href="course-single.php" class="course">
+            <a href="course-css.php" class="course">
               <img src="images/css.jpg" alt="Image placeholder">
               <h2>CSS 3</h2>
               <p>por Vinicius Snow</p>
