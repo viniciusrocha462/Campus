@@ -12,17 +12,8 @@
                         <a class="nav-link active" href="index.php">Início</a>
                     </li>
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="courses.php" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Cursos</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown04">
-                            <a class="dropdown-item" href="courses.php">Html</a>
-                            <a class="dropdown-item" href="courses.php">Css</a>
-                            <a class="dropdown-item" href="courses.php">Bootstrap 4</a>
-                            <a class="dropdown-item" href="courses.php">Javascript</a>
-                            <a class="dropdown-item" href="courses.php">Git</a>
-                            <a class="dropdown-item" href="courses.php">Laravel</a>
-                            <a class="dropdown-item" href="courses.php">Laravel Com ACL</a>
-                        </div>
+                    <li class="nav-item">
+                        <a class="nav-link" href="courses.php">Cursos</a>
                     </li>
 
                     </li>

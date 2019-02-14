@@ -52,7 +52,7 @@
           </div>
 
           <div class="col-md-4 col-sm-6 col-12">
-            <a href="course-single.php" class="course">
+            <a href="course-bt.php" class="course">
               <img src="images/bootstrap.jpg" alt="Image placeholder">
               <h2>Bootstrap 4</h2>
               <p>por Raniery Peixoto</p>
@@ -111,21 +111,21 @@
         
         <div class="row top-course">
           <div class="col-md-4 col-sm-6 col-12">
-            <a href="course-single.php" class="course">
+            <a href="course-js.php" class="course">
               <img src="images/javascript.jpg" alt="Image placeholder">
               <h2>JavaScript</h2>
               <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-12">
-            <a href="course-single.php" class="course">
+            <a href="course-git.php" class="course">
               <img src="images/git.jpg" alt="Image placeholder">
               <h2>Git</h2>
               <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-12">
-            <a href="course-single.php" class="course">
+            <a href="course-laravel.php" class="course">
               <img src="images/laravel.jpg" alt="Image placeholder">
               <h2>Laravel</h2>
               <p>por Nathália Ferreira</p>
