@@ -1,12 +1,12 @@
 <html lang="en">
     <?php
-        include_once "layout/head.php";
+        include_once "../template/head.php";
     ?>
   <body>
     <?php
-        include_once "layout/header.php";
+        include_once "../template/header.php";
     ?>
-    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio=0.5 style="background-image: url(images/sobre2.jpg);">
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio=0.5 style="background-image: url(../assets/images/sobre2.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -44,7 +44,7 @@
         <div class="row mb-5 align-items-center">
           
           <div class="col-md-6 overflow order-1">
-            <img src="images/img_4.jpg" alt="" class="img-fluid">
+            <img src="../assets/images/img_4.jpg" alt="" class="img-fluid">
           </div>
           <div class="col-md-1 order-2"></div>
           <div class="col-md-5 order-3">
@@ -59,7 +59,7 @@
         <div class="row align-items-center">
           
           <div class="col-md-6 overflow order-3">
-            <img src="images/img_2.jpg" alt="" class="img-fluid">
+            <img src="../assets/images/img_2.jpg" alt="" class="img-fluid">
           </div>
           <div class="col-md-1 order-2"></div>
           <div class="col-md-5 order-1">
@@ -86,7 +86,7 @@
 
           <div class="inner">
             <div class="media d-block feature text-center">
-              <img src="images/person_1.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_1.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Natália Ferreira</h3>
                 <p class="instructor-meta">Back-end</p>
@@ -95,7 +95,7 @@
             </div>
 
             <div class="media d-block feature text-center">
-              <img src="images/person_2.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_2.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Welington Andrade</h3>
                 <p class="instructor-meta">Back-end</p>
@@ -104,7 +104,7 @@
             </div>
 
             <div class="media d-block feature text-center">
-              <img src="images/person_3.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_3.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Raniery Peixoto</h3>
                 <p class="instructor-meta">Front-end</p>
@@ -114,7 +114,7 @@
 
 
             <div class="media d-block feature text-center">
-              <img src="images/person_4.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_4.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Vinicius Rocha</h3>
                 <p class="instructor-meta">Front-end</p>
@@ -127,10 +127,10 @@
       </div>
     </section>
       <?php
-      include_once "layout/footer.php";
+      include_once "../template/footer.php";
       ?>
       <?php
-      include_once "layout/script.php";
+      include_once "../template/script.php";
       ?>
   </body>
 </html>

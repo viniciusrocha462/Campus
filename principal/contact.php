@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en">
     <?php
-    include_once "layout/head.php";
+    include_once "../template/head.php";
     ?>
   <body>
       <?php
-      include_once "layout/header.php";
+      include_once "../template/header.php";
       ?>
 
-    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/contact-us.jpg);">
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(../assets/images/contact-us.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -66,7 +66,7 @@
           
           
           <div class="col-lg-7 order-lg-3 order-1 mb-lg-0 mb-5">
-            <img src="images/contact-banner.jpg" alt="Image placeholder" class="img-md-fluid">
+            <img src="../assets/images/contact-banner.jpg" alt="Image placeholder" class="img-md-fluid">
           </div>
           <div class="col-lg-1 order-lg-2"></div>
           <div class="col-lg-4 order-lg-1 order-2 mb-lg-0 mb-5">
@@ -80,10 +80,10 @@
     </section>
 
       <?php
-      include_once "layout/footer.php";
+      include_once "../template/footer.php";
       ?>
       <?php
-      include_once "layout/script.php";
+      include_once "../template/script.php";
       ?>
   </body>
 </html>

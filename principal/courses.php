@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en">
     <?php
-    include_once "layout/head.php";
+    include_once "../template/head.php";
     ?>
   <body>
       <?php
-      include_once "layout/header.php";
+      include_once "../template/header.php";
       ?>
 
-    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/products-online-courses.jpg);">
+    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(../assets/images/products-online-courses.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -38,14 +38,14 @@
         <div class="row top-course">
           <div class="col-md-4 col-sm-6 col-12">
             <a href="course-single.php" class="course">
-              <img src="images/html.jpg" alt="Image placeholder">
+              <img src="../assets/images/html.jpg" alt="Image placeholder">
               <h2>HTML 5</h2>
               <p>por Vinicius Rocha</p>
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-12">
             <a href="course-css.php" class="course">
-              <img src="images/css.jpg" alt="Image placeholder">
+              <img src="../assets/images/css.jpg" alt="Image placeholder">
               <h2>CSS 3</h2>
               <p>por Vinicius Snow</p>
             </a>
@@ -53,7 +53,7 @@
 
           <div class="col-md-4 col-sm-6 col-12">
             <a href="course-bt.php" class="course">
-              <img src="images/bootstrap.jpg" alt="Image placeholder">
+              <img src="../assets/images/bootstrap.jpg" alt="Image placeholder">
               <h2>Bootstrap 4</h2>
               <p>por Raniery Peixoto</p>
             </a>
@@ -112,21 +112,21 @@
         <div class="row top-course">
           <div class="col-md-4 col-sm-6 col-12">
             <a href="course-js.php" class="course">
-              <img src="images/javascript.jpg" alt="Image placeholder">
+              <img src="../assets/images/javascript.jpg" alt="Image placeholder">
               <h2>JavaScript</h2>
               <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-12">
             <a href="course-git.php" class="course">
-              <img src="images/git.jpg" alt="Image placeholder">
+              <img src="../assets/images/git.jpg" alt="Image placeholder">
               <h2>Git</h2>
               <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-12">
             <a href="course-laravel.php" class="course">
-              <img src="images/laravel.jpg" alt="Image placeholder">
+              <img src="../assets/images/laravel.jpg" alt="Image placeholder">
               <h2>Laravel</h2>
               <p>por Nathália Ferreira</p>
             </a>
@@ -149,7 +149,7 @@
 
           <div class="inner">
             <div class="media d-block feature text-center">
-              <img src="images/person_1.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_1.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Nathália Ferreira</h3>
                 <p class="instructor-meta">Laravel</p>
@@ -158,7 +158,7 @@
             </div>
 
             <div class="media d-block feature text-center">
-              <img src="images/person_2.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_2.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Raniery Peixoto</h3>
                 <p class="instructor-meta">Bootstrap 4</p>
@@ -167,7 +167,7 @@
             </div>
 
             <div class="media d-block feature text-center">
-              <img src="images/person_3.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_3.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Vinicius Rocha</h3>
                 <p class="instructor-meta">HTML 5 / CSS 3</p>
@@ -177,7 +177,7 @@
 
 
             <div class="media d-block feature text-center">
-              <img src="images/person_4.jpg" alt="Image placeholder" class="mb-3">
+              <img src="../assets/images/person_4.jpg" alt="Image placeholder" class="mb-3">
               <div class="media-body">
                 <h3 class="mt-0">Welington Andrade</h3>
                 <p class="instructor-meta">Git / JavaScript</p>
@@ -247,10 +247,10 @@
     </section>
 
     <?php
-    include_once "layout/footer.php";
+    include_once "../template/footer.php";
     ?>
     <?php
-    include_once "layout/script.php";
+    include_once "../template/script.php";
     ?>
   </body>
 </html>

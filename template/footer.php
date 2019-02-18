@@ -1,4 +1,4 @@
-<footer class="site-footer" style="background-image: url(../images/big_image_3.jpg);">
+<footer class="site-footer" style="background-image: url(../assets/images/big_image_3.jpg);">
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4">
@@ -9,11 +9,11 @@
                 <div class="row">
                     <div class="col-md-4">
                         <ul class="list-unstyled">
-                            <li><a href="about.php">Sobre</a></li>
+                            <li><a href="../principal/about.php">Sobre</a></li>
                             <li><a href="#">Companhia</a></li>
-                            <li><a href="about.php">Professores</a></li>
-                            <li><a href="courses.php">Cursos</a></li>
-                            <li><a href="contact.php">Contato</a></li>
+                            <li><a href="../principal/about.php">Professores</a></li>
+                            <li><a href="../principal/courses.php">Cursos</a></li>
+                            <li><a href="../principal/contact.php">Contato</a></li>
                         </ul>
                     </div>
                     <div class="col-md-4">

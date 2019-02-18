@@ -2,15 +2,15 @@
 <html lang="en">
   <head>
       <?php
-      include_once "layout/head.php";
+      include_once "../template/head.php";
       ?>
   <body>
   <?php
-    include_once "layout/header.php";
+    include_once "../template/header.php";
   ?>
     <!-- Painel Inicial -->
 
-    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/index.jpg);">
+    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(../assets/images/index.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -27,7 +27,7 @@
     </section>
     <!-- END section -->
 
-    <section class="school-features d-flex" style="background-image: url(images/big_image_3.jpg);">
+    <section class="school-features d-flex" style="background-image: url(../assets/images/big_image_3.jpg);">
 
       <div class="inner">
         <div class="media d-block feature">
@@ -173,42 +173,42 @@
         <div class="row top-course">
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/html.jpg" alt="Image placeholder">
+              <img src="../assets/images/html.jpg" alt="Image placeholder">
               <h2>HTML 5</h2>
               <p>por Vinicius Rocha</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/css.jpg" alt="Image placeholder">
+              <img src="../assets/images/css.jpg" alt="Image placeholder">
               <h2>CSS 3</h2>
               <p>por Vinicius Rocha</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/bootstrap.jpg" alt="Image placeholder">
+              <img src="../assets/images/bootstrap.jpg" alt="Image placeholder">
               <h2>Bootstrap 4</h2>
               <p>por Raniery Peixoto</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/javascript.jpg" alt="Image placeholder">
+              <img src="../assets/images/javascript.jpg" alt="Image placeholder">
               <h2>JavaScript</h2>
               <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/git.jpg" alt="Image placeholder">
+              <img src="../assets/images/git.jpg" alt="Image placeholder">
               <h2>Git</h2>
               <p>por Welington Andrade</p>
             </a>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6 col-12">
             <a href="#" class="course">
-              <img src="images/laravel.jpg" alt="Image placeholder">
+              <img src="../assets/images/laravel.jpg" alt="Image placeholder">
               <h2>Laravel</h2>
               <p>por Nathália Ferreira</p>
             </a>
@@ -224,7 +224,7 @@
           
           
           <div class="col-lg-7 order-lg-3 order-1 mb-lg-0 mb-5">
-            <img src="images/img_5.jpg" alt="Image placeholder" class="img-md-fluid">
+            <img src="../assets/images/img_5.jpg" alt="Image placeholder" class="img-md-fluid">
           </div>
           <div class="col-lg-1 order-lg-2"></div>
           <div class="col-lg-4 order-lg-1 order-2 mb-lg-0 mb-5">
@@ -238,10 +238,10 @@
     </section>
 
       <?php
-      include_once "layout/footer.php";
+      include_once "../template/footer.php";
       ?>
       <?php
-      include_once "layout/script.php";
+      include_once "../template/script.php";
       ?>
   </body>
 </html>

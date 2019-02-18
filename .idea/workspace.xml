@@ -1,12 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/css/style.css" line="950" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="10eb3a93-71bb-4af7-b149-b0adf5df8f28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/courses.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-bt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-css.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-git.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-js.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-laravel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/backup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/_flaticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/font/flaticon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/flaticon/license/license.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/cheatsheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/angularjs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/big_image_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/big_image_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bootstrap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contact-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contact-us.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/css.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/git.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/javascript.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/laravel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_testimonial_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photoshop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/products-online-courses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/reactjs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sobre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sobre2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/webdesign.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wordpress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-migrate-3.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/script.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_navbar-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/utilities/_visibility.scss" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,59 +179,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/course-css.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="10" column="114" selection-start-line="10" selection-start-column="114" selection-end-line="10" selection-end-column="114" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/course-laravel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/course-git.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -124,6 +236,22 @@
         <option value="$PROJECT_DIR$/course-js.php" />
         <option value="$PROJECT_DIR$/course-git.php" />
         <option value="$PROJECT_DIR$/course-laravel.php" />
+        <option value="$PROJECT_DIR$/principal/index.php" />
+        <option value="$PROJECT_DIR$/principal/about.php" />
+        <option value="$PROJECT_DIR$/principal/contact.php" />
+        <option value="$PROJECT_DIR$/principal/course-bt.php" />
+        <option value="$PROJECT_DIR$/principal/course-css.php" />
+        <option value="$PROJECT_DIR$/principal/course-git.php" />
+        <option value="$PROJECT_DIR$/principal/course-js.php" />
+        <option value="$PROJECT_DIR$/principal/course-laravel.php" />
+        <option value="$PROJECT_DIR$/principal/course-single.php" />
+        <option value="$PROJECT_DIR$/principal/courses.php" />
+        <option value="$PROJECT_DIR$/principal/login.php" />
+        <option value="$PROJECT_DIR$/principal/register.php" />
+        <option value="$PROJECT_DIR$/template/footer.php" />
+        <option value="$PROJECT_DIR$/template/head.php" />
+        <option value="$PROJECT_DIR$/template/header.php" />
+        <option value="$PROJECT_DIR$/template/script.php" />
       </list>
     </option>
   </component>
@@ -145,28 +273,13 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="site-hero&#9;null&#9;null&#10;site-footer&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/teste" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -224,17 +337,18 @@
       <workItem from="1550009139362" duration="3570000" />
       <workItem from="1550070513719" duration="10300000" />
       <workItem from="1550147870669" duration="1652000" />
+      <workItem from="1550235289917" duration="48000" />
+      <workItem from="1550505550247" duration="1908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158071000" />
+    <option name="totallyTimeSpent" value="160219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15506808" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15960665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -280,35 +394,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/plugins.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/style.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/plugins.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/plugins.css" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/style.css" />
-    <entry file="file://$PROJECT_DIR$/scss/vendors/plugins.css" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss" />
-    <entry file="file://$PROJECT_DIR$/css/vendors/plugins.css.map" />
-    <entry file="file://$PROJECT_DIR$/scss/vendors/plugins.scss" />
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid.scss" />
     <entry file="file://$PROJECT_DIR$/css/vendors/plugins.css" />
     <entry file="file://$PROJECT_DIR$/scss/_header.scss" />
-    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_variables.scss" />
     <entry file="file://$PROJECT_DIR$/css/style.css.map" />
     <entry file="file://$PROJECT_DIR$/imagens_site/gta.jpg" />
-    <entry file="file://$PROJECT_DIR$/scss/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss" />
     <entry file="file://$USER_HOME$/Desktop/All/Programmer/Projetos/Google Glass/_css/estilo.css" />
     <entry file="file://$USER_HOME$/Desktop/All/Programmer/Projetos/Google Glass/multimidia.php" />
     <entry file="file://$USER_HOME$/Desktop/All/Programmer/Projetos/Google Glass/index.php" />
@@ -320,143 +412,165 @@
     <entry file="file://$PROJECT_DIR$/include/head.php" />
     <entry file="file://$PROJECT_DIR$/blog-single.php" />
     <entry file="file://$PROJECT_DIR$/blog.php" />
-    <entry file="file://$PROJECT_DIR$/layout/script.php">
+    <entry file="file://$PROJECT_DIR$/layout/script.php" />
+    <entry file="file://$PROJECT_DIR$/register.php" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/about.php" />
+    <entry file="file://$PROJECT_DIR$/course-single.php" />
+    <entry file="file://$PROJECT_DIR$/layout/head.php" />
+    <entry file="file://$PROJECT_DIR$/course-bt.php" />
+    <entry file="file://$PROJECT_DIR$/course-js.php" />
+    <entry file="file://$PROJECT_DIR$/layout/footer.php" />
+    <entry file="file://$PROJECT_DIR$/layout/header.php" />
+    <entry file="file://$PROJECT_DIR$/course-css.php" />
+    <entry file="file://$PROJECT_DIR$/contact.php" />
+    <entry file="file://$PROJECT_DIR$/course-laravel.php" />
+    <entry file="file://$PROJECT_DIR$/course-git.php" />
+    <entry file="file://$PROJECT_DIR$/courses.php" />
+    <entry file="file://$PROJECT_DIR$/principal/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/course-bt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/course-css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/course-git.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/course-js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/course-laravel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/course-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/courses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="252" column="29" selection-start-line="252" selection-start-column="29" selection-end-line="252" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/script.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
+    <entry file="file://$PROJECT_DIR$/template/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4335">
-          <caret line="255" column="15" selection-start-line="255" selection-start-column="15" selection-end-line="255" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="146" selection-start-line="10" selection-start-column="146" selection-end-line="10" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/footer.php">
+    <entry file="file://$PROJECT_DIR$/template/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courses.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="127" column="35" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
           <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/header.php">
+    <entry file="file://$PROJECT_DIR$/principal/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course-bt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="22" column="100" lean-forward="true" selection-start-line="22" selection-start-column="100" selection-end-line="22" selection-end-column="100" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course-js.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course-css.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="10" column="114" selection-start-line="10" selection-start-column="114" selection-end-line="10" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course-git.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course-laravel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="1462">
+          <caret line="86" column="31" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

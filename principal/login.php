@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en">
     <?php
-    include_once "layout/head.php";
+    include_once "../template/head.php";
     ?>
   <body>
       <?php
-      include_once "layout/header.php";
+      include_once "../template/header.php";
       ?>
 
-    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/index.jpg);">
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(../assets/images/index.jpg);">
       <div class="container">
         <div class="row align-items-center site-hero-inner justify-content-center">
           <div class="col-md-8 text-center">
@@ -74,10 +74,10 @@
     </section>
 -->
     <?php
-    include_once "layout/footer.php";
+    include_once "../template/footer.php";
     ?>
     <?php
-    include_once "layout/script.php";
+    include_once "../template/script.php";
     ?>
   </body>
 </html>
